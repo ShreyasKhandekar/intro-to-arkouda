@@ -15,5 +15,6 @@ This repository contains a hands-on tutorial demonstrating how to use Arkouda fo
 
 - Arkouda Website: https://arkouda-www.github.io/
 - Arkouda GitHub: https://github.com/Bears-R-Us/arkouda
-- NYC Squirrel Census Data: https://www.kaggle.com/datasets/fayomiololade/nyc-squirrel-census-2018
+- NYC Squirrel Census Website: https://www.thesquirrelcensus.com/
+- NYC Squirrel Census Data: https://www.dropbox.com/scl/fi/is2yaa5gz1of32xo1xwvd/squirrel-data.csv?rlkey=sao5wj2tqd98nzs6rsi5k7ot6&e=2&dl=0nyc-squirrel-census-2018
 - Chapel Website: https://chapel-lang.org/
