@@ -2,6 +2,8 @@
 
 This repository contains a hands-on tutorial demonstrating how to use Arkouda for scalable exploratory data analysis (EDA) on the 2018 NYC Squirrel Census dataset. Learn how to connect to an Arkouda server, manipulate distributed arrays and dataframes, perform groupbys, and visualize results — all at scale.
 
+A video of this demo being presented live is available on [YouTube](https://youtu.be/4X0LVQ2iTgI)
+
 ### Features:
 
 - Launch and connect to an Arkouda server
